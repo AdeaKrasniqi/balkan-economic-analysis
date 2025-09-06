@@ -10,11 +10,12 @@ The analysis uses Python and its data science libraries to explore trends, compa
 ---
 
 ## 📂 Project Files
+All files are in one folder:
 - `GDP.csv` → raw GDP data  
 - `Unemployment.csv` → raw unemployment data  
 - `Inflation.csv` → raw inflation data  
 - `Economic_Indicators_Balkans.csv` → cleaned and merged dataset (final dataset)  
-- `Economic_Indicators_Balkans.ipynb` → Jupyter Notebook with full code, cleaning steps, and visualizations   
+- `Economic_Indicators_Balkans.ipynb` → Jupyter Notebook with full code, cleaning steps, and visualizations    
 
 ---
 
@@ -29,8 +30,4 @@ The analysis uses Python and its data science libraries to explore trends, compa
    - Combined plots with min/max values per country  
    - Bar charts comparing indicators **before, during, and after COVID-19**  
 
-
-
-
-   pip install pandas numpy matplotlib seaborn
 
